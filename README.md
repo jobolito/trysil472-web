@@ -1,2 +1,2 @@
-# trysil472-web
-Website for trysil472.com
+# bohl.in
+Personal site
